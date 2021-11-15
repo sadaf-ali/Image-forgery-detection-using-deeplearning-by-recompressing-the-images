@@ -1,2 +1,6 @@
 
 Image-forgery-detection-using-deeplearning-by-recompressing-the-images
+
+To train and test the model CASIA 2.0 database has been used
+
+link to database: https://drive.google.com/file/d/1SLBe08N_V7zQHVui3SwnfOvz6Ky-mqnZ/view?usp=sharing
